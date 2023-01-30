@@ -1,2 +1,2 @@
-# gdi-api
-# gdi-api
+# API para el gestor de ingresos
+
